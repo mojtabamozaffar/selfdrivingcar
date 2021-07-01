@@ -1,6 +1,3 @@
-# selfdrivingcar
-My exploratory codes for self-driving methods
-
 ### Algorithms for Self-Driving Car
 
 This repository contains my exploratory codes for autonomous driving.
